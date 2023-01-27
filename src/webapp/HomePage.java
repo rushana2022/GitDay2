@@ -6,6 +6,10 @@ public class HomePage {
 
     // this a navigation menu
 
+   // more things for this batch
+
+    //logo
+
 
 
 
